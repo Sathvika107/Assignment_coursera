@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" type="text/css" href="mod2.css">
+</head>
+
+
+
+	<TITLE> MODUL2_ASSIGN
+	</TITLE>
+	
+	<body>
+		<h1>Our Menu</h1>
+		       
+                 
+
+			<div class="col-dk-4 col-tab-6 col-mob-12 " >
+			<section id="p1">
+				<div class="food_name" id="food_name1">Chicken</div>
+			
+			<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus enim vitae erat condimentum interdum.Duis sodales eleifend odio nec aliquam. 
+			Donec blandit aliquet nunc non pharetra. Ut pulvinar elementum libero, in tincidunt mauris bibendum quis. Mauris eget metus massa.
+			Vivamus porta ullamcorper ipsum nec rutrum. Vestibulum vehicula porttitor sem ut accumsan. Proin porttitor facilisis eros eget sodales.</p>		
+			</div>
+			</section>
+		
+		
+	<div class="col-dk-4 col-tab-6 col-mob-12" >
+	<section id="p2">
+		<div class="food_name" id="food_name2">Sushi</div>
+			<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus enim vitae erat condimentum interdum. 
+			Duis sodales eleifend odio nec aliquam. Donec blandit aliquet nunc non pharetra. Ut pulvinar elementum libero, in tincidunt mauris bibendum quis. 
+			Mauris eget metus massa. Vivamus porta ullamcorper ipsum nec rutrum. Vestibulum vehicula porttitor sem ut accumsan. Proin porttitor facilisis eros eget sodales. </p>
+	</div>
+	</section>
+	
+	  <div class="col-dk-4 col-tab-12 col-mob-12" >
+	  <section id="p3">
+		<div class="food_name" id="food_name3">Beef</div>
+		<p>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempus enim vitae erat condimentum interdum. Duis sodales eleifend odio nec aliquam. 
+		Donec blandit aliquet nunc non pharetra. Ut pulvinar elementum libero, in tincidunt mauris bibendum quis. Mauris eget metus massa. Vivamus porta ullamcorper ipsum nec rutrum. Vestibulum vehicula porttitor sem ut accumsan. Proin porttitor facilisis eros eget sodales.
+        </p>
+      </div>
+       </section>
+
+
+	</body>
+</html>
