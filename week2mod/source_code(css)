@@ -1,0 +1,113 @@
+<style>
+
+.*{
+	box-sizing: border-box;
+}
+body
+{
+	background-color:#BC8F8F;
+
+}
+h1
+{
+	font-weight:bold;
+	color:white;
+	font-size: 40px;
+	text-align: center;
+	text-shadow:1px 1px 2px #000000;
+}
+div .col-
+{
+margin:1px;
+}
+section
+{
+        border :1px solid black;
+	margin:4px;
+	padding:4px;
+
+
+}
+
+div.food_name
+{
+   float:right;
+   border :1px solid black;
+   font-weight:bold;
+   font-size:20px;
+   width:70px;
+}
+ #food_name1 {
+	background-color:#A9A9A9;
+}
+ #food_name2 {
+	background-color:#E9967A;
+}
+#food_name3 {
+	background-color:#8FBC8F;
+}
+
+
+p
+{
+  text-align:left;
+
+  font-family:Gabriola;
+  color: black;
+  padding-left:0;
+  margin-top:40px;
+  font-size:20px;
+  width:100%;
+}
+#p1{
+background-color:#F5F5DC;
+}
+#p2{
+background-color:#FAEBD7;
+}
+#p3{
+background-color:#DEB887;
+}
+
+
+
+@media (min-width:992px)
+{   
+   
+.col-dk-4 
+  {
+
+width: 33.33%;
+  	float:left;
+}}
+  
+
+
+@media (min-width:768px) and (max-width:991px)
+
+{
+  .col-tab-6 
+  { 
+
+width: 50%;
+  float:left;}
+
+  .col-tab-12 
+  {
+width: 100%;
+   float:left;
+}
+}
+
+@media (max-width:767px)
+{  
+    	
+.col-mob-12 
+  {
+width: 100%;
+   float:left;
+}
+}
+</style>
+
+
